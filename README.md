@@ -1,4 +1,4 @@
-# Novasystems
+# NovaSystems
 ## español
 * Una copilación de todos mis script de Roblox para tu juego
 * cada script tiene su propia licencia; asegurate de lerla antes de usar

@@ -3,8 +3,8 @@
 ║         SOFT SHUTDOWN NOVASYSTEM           ║
 ║                                            ║
 ║  Versión:   1.0.0                          ║
-║  Autor:     TuNombreAqui                   ║
-║  GitHub:    github.com/TuUsuario           ║
+║  Autor:     hacko_223                      ║
+║  GitHub:    github.com/hacko223            ║
 ║                                            ║
 ║  Características:                          ║
 ║  • Multi-idioma (ES/EN)                    ║

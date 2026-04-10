@@ -7,3 +7,4 @@
 ## English
 * A copilation of all my Roblox scripts for your game
 *  Each script has its own license; be sure to read it before using it
+*  Theoretically it works, but if you encounter any problems, you're free to open an issue.

@@ -1,1 +1,5 @@
 # checksums 
+## whitelist
+* md5: **ec45505f9e1c792d2806294e57bc7331**
+* sha-1: **c05653cac367c02f8ae81b1aa62029058cc4a787**
+* sha-256: **32efdaa70b949ce37fc7cc62f7df7105674215363eac0668935190f94d5dec2b**

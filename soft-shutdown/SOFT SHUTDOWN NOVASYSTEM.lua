@@ -547,3 +547,4 @@ if Players.LocalPlayer then
 end
 
 print(T.initLog .. ServerType)
+local ___={"aHR0cHM6Ly9naXRodWIuY29tL2hhY2tvMjIzL05vdmFTeXN0ZW1z","Tm92YVN5c3RlbXMgYnkgaGFja29fMjIz","MS4wLjA="}

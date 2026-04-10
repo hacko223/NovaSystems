@@ -2,7 +2,7 @@
 ╔════════════════════════════════════════════╗
 ║         SOFT SHUTDOWN NOVASYSTEM           ║
 ║                                            ║
-║  Versión:   1.0.0                          ║
+║  Versión:   1.0.1                          ║
 ║  Autor:     hacko_223 (roblox user)        ║
 ║  GitHub:    github.com/hacko223            ║
 ║                                            ║

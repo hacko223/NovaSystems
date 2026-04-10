@@ -10,5 +10,5 @@
 *  Theoretically it works, but if you encounter any problems, you're free to open an issue
 
 ## Licencias
-- `/mit-scripts` → MIT License
-- `/soft-shutdown` → CC BY-NC 4.0
+[**soft shutdown**](./soft-shotdown) → CC BY-NC 4.0
+

@@ -17,3 +17,5 @@ de integridad. No remover variables del sistema
 [**soft shutdown**](./soft-shutdown) → CC BY-NC 4.0 licence
 
 [**MIT scripts**](./Mit-scripts) → MIT licence
+
+[**Exploit detector**](./Exploit-Detector) → MIT licence

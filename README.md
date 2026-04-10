@@ -2,6 +2,7 @@
 ## español
 * Una copilación de todos mis script de Roblox para tu juego
 * cada script tiene su propia licencia; asegurate de lerla antes de usar
+* teóricamente funciona pero cualquier error eres libre de abrir un issue
 
 ## English
 * A copilation of all my Roblox scripts for your game

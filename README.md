@@ -14,6 +14,6 @@ de integridad. No remover variables del sistema
 
 
 ## Licencias
-[**CC BY-NC 4.0 scripts**](./CC-BY-NC-4.0-scripts) → CC BY-NC 4.0 licence
+[**soft shutdown**](./soft-shutdown) → CC BY-NC 4.0 licence
 
 [**MIT scripts**](./Mit-scripts) → MIT licence

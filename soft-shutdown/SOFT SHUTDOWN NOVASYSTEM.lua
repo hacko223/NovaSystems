@@ -18,7 +18,7 @@
 ║  sin permiso del autor.                    ║
 ╚════════════════════════════════════════════╝
 ]]
-local _={"aHR0cHM6Ly9naXRodWIuY29tL2hhY2tvMjIzL05vdmFTeXN0ZW1z","Tm92YVN5c3RlbXMgYnkgaGFja29fMjIz","MS4wLjA="}
+local _={"aHR0cHM6Ly9naXRodWIuY29tL2hhY2tvMjIzL05vdmFTeXN0ZW1z","Tm92YVN5c3RlbXMgYnkgaGFja29fMjIz"}
 -- drag the script to ServerScriptService
 -- arrastra el script a ServerScriptService
 --only script, no modular or local only script
@@ -547,4 +547,4 @@ if Players.LocalPlayer then
 end
 
 print(T.initLog .. ServerType)
-local ___={"aHR0cHM6Ly9naXRodWIuY29tL2hhY2tvMjIzL05vdmFTeXN0ZW1z","Tm92YVN5c3RlbXMgYnkgaGFja29fMjIz","MS4wLjA="}
+local ___={"aHR0cHM6Ly9naXRodWIuY29tL2hhY2tvMjIzL05vdmFTeXN0ZW1z","Tm92YVN5c3RlbXMgYnkgaGFja29fMjIz"}

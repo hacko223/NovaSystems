@@ -15,4 +15,4 @@ de integridad. No remover variables del sistema
 
 ## Licencias
 [**soft shutdown**](./soft-shutdown) → CC BY-NC 4.0
-
+[**MIT scripts**](./Mit-scripts) → MIT licence

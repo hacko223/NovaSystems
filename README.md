@@ -18,4 +18,4 @@ de integridad. No remover variables del sistema
 
 [**MIT scripts**](./Mit-scripts) → MIT licence
 
-[**Exploit detector**](./Exploit-Detector) → GNU GPL v3 licence
+[**Malware detector**](./Malware-Detector) → GNU GPL v3 licence
